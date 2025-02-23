@@ -1,0 +1,14 @@
+body{
+    margin:0;
+    padding:0;
+}
+.topBar {
+    background-color: aqua;
+    padding:10px;
+}
+.mainPromo {
+    background-color: rgb(250,120,0);
+}
+.endInfo{
+    background-color: purple;
+}
